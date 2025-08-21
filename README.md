@@ -26,13 +26,14 @@ A aplicação tem como propósito fornecer uma solução simples, mas extensíve
    ```bash
    git clone https://github.com/usuario/projeto-java-gestao.git
 
----
-## Equipe
-<details>
-  -Ravi Barbosa
-  -Pedro Gomes
-  -Eduardo Rocha
-  -Gabriel Calado
-  -David Alves
-  -Rafael Gomes
-</details>
+___
+
+## 👥 Nossa Equipe
+
+- David Alves
+- Gabriel Calado
+- Eduardo de Medeiros Rocha
+- Rafael Gomes
+- Pedro Gomes
+- Ravi Barbosa
+
