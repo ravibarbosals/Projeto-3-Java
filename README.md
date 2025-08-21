@@ -14,9 +14,7 @@ A aplicação tem como propósito fornecer uma solução simples, mas extensíve
   <summary>Clique para expandir</summary>
 
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-- <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-- <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 - <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 
 </details>
@@ -27,3 +25,14 @@ A aplicação tem como propósito fornecer uma solução simples, mas extensíve
 1. Clone o repositório:
    ```bash
    git clone https://github.com/usuario/projeto-java-gestao.git
+
+---
+## Equipe
+<details>
+  -Ravi Barbosa
+  -Pedro Gomes
+  -Eduardo Rocha
+  -Gabriel Calado
+  -David Alves
+  -Rafael Gomes
+</details>
