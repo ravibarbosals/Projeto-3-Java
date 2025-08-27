@@ -1,4 +1,4 @@
-# 📌 Projeto Java 
+# 📌 Brennand Digital
 
 ## 📖 Sobre o Projeto
 O **Sistema de Gestão de Visitantes** é um software desenvolvido em **Java** com o objetivo de facilitar o gerenciamento de informações dos visitantes.  
