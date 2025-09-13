@@ -12,6 +12,9 @@ A aplicação tem como propósito fornecer uma solução simples, mas extensíve
 
 https://www.figma.com/design/5gw7g03K3NlFqpk4N44rt2/Brennand?node-id=0-1&p=f&t=jmqIZNbSJJSAi7aO-0
 
+<img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/12757424-f25f-4a8e-9378-7cfcb9fcffe9" />
+
+
 </details>
 
 ## TRELLO
