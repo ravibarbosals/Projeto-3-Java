@@ -14,6 +14,12 @@ https://www.figma.com/design/5gw7g03K3NlFqpk4N44rt2/Brennand?node-id=0-1&p=f&t=j
 
 </details>
 
+## TRELLO
+<details>
+   <summry>Clique para expandir</summary>
+</details
+
+
 ## 🛠 Tecnologias Utilizadas
 <details>
   <summary>Clique para expandir</summary>
