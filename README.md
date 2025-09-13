@@ -6,6 +6,13 @@ O **Sistema de Gestão de Visitantes** é um software desenvolvido em **Java** c
 A aplicação tem como propósito fornecer uma solução simples, mas extensível, que poderá evoluir para incluir relatórios, integração com banco de dados e interface gráfica/web.
 
 ---
+## FIGMA
+<details>
+   <summary>Clique para expandir</summary>
+
+https://www.figma.com/design/5gw7g03K3NlFqpk4N44rt2/Brennand?node-id=0-1&p=f&t=jmqIZNbSJJSAi7aO-0
+
+</details>
 
 ## 🛠 Tecnologias Utilizadas
 <details>
