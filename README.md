@@ -20,6 +20,8 @@ https://www.figma.com/design/5gw7g03K3NlFqpk4N44rt2/Brennand?node-id=0-1&p=f&t=j
 ## TRELLO
 <details>
    <summry>Clique para expandir</summary>
+      <img width="1600" height="691" alt="image" src="https://github.com/user-attachments/assets/2195e664-6306-4c7d-98dc-5a17d7a175c6" />
+
 </details
 
 
