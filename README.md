@@ -41,7 +41,7 @@ https://www.figma.com/design/5gw7g03K3NlFqpk4N44rt2/Brennand?node-id=0-1&p=f&t=j
 ## 🚀 Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/projeto-java-gestao.git
+   git clone https://github.com/usuario/Projeto-Brennand-Digital.git
 
 ___
 
