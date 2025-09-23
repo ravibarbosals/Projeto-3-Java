@@ -15,7 +15,7 @@ https://www.figma.com/design/5gw7g03K3NlFqpk4N44rt2/Brennand?node-id=0-1&p=f&t=j
 <img width="1915" height="863" alt="image" src="https://github.com/user-attachments/assets/d4b44bc1-d001-42ad-99fd-bf803b682033" />
 
 
-
+---
 </details>
 
 ## TRELLO
@@ -28,7 +28,7 @@ https://trello.com/b/qq7pibmx/projetos-3
 
 </details
 
-
+---
 ## 🛠 Tecnologias Utilizadas
 <details>
   <summary>Clique para expandir</summary>
