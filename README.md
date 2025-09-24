@@ -24,8 +24,6 @@ https://www.figma.com/design/5gw7g03K3NlFqpk4N44rt2/Brennand?node-id=0-1&p=f&t=j
 
 https://trello.com/b/qq7pibmx/projetos-3
 
-<img width="1600" height="691" alt="image" src="https://github.com/user-attachments/assets/2195e664-6306-4c7d-98dc-5a17d7a175c6" />
-
 </details
 
 ---
@@ -38,6 +36,17 @@ https://trello.com/b/qq7pibmx/projetos-3
 - <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 
 </details>
+
+
+---
+## SCREENCAST
+<details>
+  <summary>Clique para expandir</summary>
+
+https://youtu.be/aLnS4tEiyCQ
+
+</details>
+
 
 ---
 
