@@ -29,7 +29,7 @@ https://trello.com/b/qq7pibmx/projetos-3
 ---
 ## 🛠 Tecnologias Utilizadas
 <details>
-  <summary>Clique para expandir</summary>
+   <summary>Clique para expandir</summary>
 
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
